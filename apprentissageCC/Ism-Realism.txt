@@ -1,0 +1,102 @@
+Target: Realism
+
+test github
+1.
+1.1 Description of Realism
+Realism is the philosophical position asserting that reality, objects, properties, states of affairs, or physical phenomena exist independently of human minds, perceptions, beliefs, language, or conceptual schemes. In its broadest sense, realism holds that there is an objective world out there that remains existent and possesses specific properties whether or not any conscious observer perceives or thinks about it.
+
+1.2 Is this an element of Ontology or Epistemology or else if else, what ?
+- Ontology: Primarily (concerning the ultimate nature of existence, reality, and what is real independent of mind).
+- Epistemology: Secondarily (concerning the accessibility of objective truth and whether knowledge can accurately mirror external reality).
+- Other domains: Philosophy of Science (Scientific Realism vs. Instrumentalism), Ethics / Meta-ethics (Moral Realism), Political Theory / International Relations (Political Realism / Realpolitik), Aesthetics / Literature (Artistic & Literary Realism).
+
+1.3
+-variations / association of Realism
+1. Naive Realism (Direct Realism / Common Sense Realism): The intuitive belief that our senses provide us with direct, unmediated awareness of objects exactly as they exist in reality.
+2. Scientific Realism: The view that the physical universe described by mature scientific theories is real, and that unobservable entities (such as electrons, quarks, or gravitational fields) exist independently of human observation.
+3. Critical Realism: A philosophy (notably developed by Roy Bhaskar and Karl Popper) holding that reality exists independently of perception, but our knowledge of it is indirect, fallible, and socially/conceptually mediated.
+4. Metaphysical / Philosophical Realism: The fundamental thesis that a mind-independent reality exists and has a determinate structure regardless of cognitive agents.
+5. Scholastic Realism (Moderate Realism): The medieval doctrine (notably Thomas Aquinas) stating that universals exist within particular things (in re) as essences, rather than separately or merely as mental concepts.
+6. Platonic Realism (Exaggerated / Transcendental Realism): The belief that abstract objects (universals, mathematical entities, and ideal Forms) exist independently of physical space, time, and human thought.
+7. Moral Realism (Ethical Realism): The meta-ethical stance that objective moral facts, duties, and values exist independently of personal feelings or societal conventions.
+8. Structural Realism: In the philosophy of science, the view that scientific theories accurately describe the mathematical and relational structures of reality rather than the intrinsic nature of unobservable entities.
+9. Political Realism (Realpolitik): The international relations theory positing that nation-states operate primarily out of self-interest, security, and power competition in an anarchic global system.
+10. Literary / Artistic Realism: A 19th-century cultural movement striving to depict everyday life, people, and social conditions accurately without romantic idealization.
+
+-In contrast to
+1. Idealism: The philosophical view that reality is fundamentally mental, spiritual, or constructed by consciousness.
+2. Anti-Realism: The rejection of objective, mind-independent existence within a specific domain (e.g., mathematics, morality, or scientific entities).
+3. Solipsism: The epistemological stance that only one's own mind and mental states can be known to exist.
+4. Nominalism: The denial of universals or abstract objects, claiming that only individual, particular objects exist and that general terms are mere labels.
+5. Phenomenalism: The doctrine that physical objects do not exist independently, but are merely logical constructions out of sensory impressions or sense-data.
+6. Social Constructivism: The view that reality, concepts, and knowledge are entirely products of social conventions, language, and cultural context.
+7. Instrumentalism: The pragmatic view in science that scientific theories are merely practical tools for prediction rather than true representations of reality.
+8. Skepticism: The philosophical position questioning the possibility of attaining certain or objective knowledge of an external world.
+
+
+2. When Realism emerged
+- Ancient Period: 5th to 4th century BCE in Ancient Greece with Parmenides (on unchanging being), Plato (Platonic Realism of Forms), and Aristotle (Empirical/Moderate Realism).
+- Medieval Period: 11th to 14th century CE during the Scholastic Universals debate (Anselm, Thomas Aquinas, Duns Scotus).
+- Modern / Contemporary Period: 19th to 20th century CE with the birth of modern scientific realism, political realism, and critical realism reacting against 18th-century Idealism and Romanticism.
+
+
+3. The continuum of a prior and a posterior of Realism
+
+3.1:
+a prior : Mythology, Sophism, and Pre-Socratic Relativism
+Description: Primitive mythic frameworks and Sophist relativism (e.g., Protagoras stating "Man is the measure of all things") reduced truth to subjective opinion or cultural myth. Classical Realism was born as a critical response to establish that truth and existence are objective, immutable, and independent of human rhetoric or divine myth.
+
+3.2:
+a posterior :
+1. Empirical Natural Science & Positivism: Realism laid the foundation for systematic scientific observation, asserting that the physical world can be objectively investigated.
+2. Idealism & Rationalism (Reactionary Posterior): Cartesian doubt, Berkeleyan Subjective Idealism, and Kantian Transcendental Idealism emerged directly to challenge naive realist assumptions.
+3. Logical Positivism & Analytical Philosophy: 20th-century movements that refined language, logic, and scientific verification based on realist premises.
+4. Speculative Realism: 21st-century philosophy returning to object-oriented ontology and non-anthropocentric metaphysics.
+
+3.3
+The continuum of the flow
+4th c. BCE: Platonic/Aristotelian Realism -> 11th-14th c. CE: Scholastic Realism -> 17th c. CE: Cartesian Rationalism / Epistemology -> 18th c. CE: Kantian Idealism -> 19th c. CE: Scientific & Political Realism -> 20th c. CE: Critical & Structural Realism -> 21st c. CE: Speculative Realism
+
+
+4. The criticism
+
+4.1 the criticism against the target Realism and the resultant genesis afterhand
+Criticism: Epistemological arguments (the "veil of perception") argue that human beings can never perceive an external world directly without sensory organs, cognitive structures, language, or paradigms filtering the experience.
+Resultant Genesis: Idealism (Immanuel Kant, George Berkeley), Phenomenalism, Pragmatism, and Social Constructivism.
+
+4.2 The one the target Realism criticizes and the resultant genesis afterhand
+Realism Criticizes: Extreme Relativism, Solipsism, Radical Subjective Idealism, and Postmodern Constructivism (for reducing objective reality to subjective illusion or linguistic power games).
+Resultant Genesis: Scientific Realism (Wilfrid Sellars, Hilary Putnam), Critical Realism (Roy Bhaskar), and Speculative Realism (Quentin Meillassoux, Graham Harman).
+
+
+5. Who part
+
+5.1:
+Who invented, Who is/are the pioneer(s) of the particular Realism
+- Aristotle (384-322 BCE) - Pioneer of Moderate Realism and empirical observation.
+- Plato (c. 428-348 BCE) - Pioneer of Platonic/Exaggerated Realism regarding universals and Forms.
+- Thomas Aquinas (1225-1274) - Pioneer of Scholastic Realism.
+- Thucydides (c. 460-c. 400 BCE) & Niccolo Machiavelli (1469-1527) - Pioneers of Political Realism.
+
+5.2:
+Who are the proponents
+- Karl Popper (Critical Realism / Scientific Fallibilism).
+- Hilary Putnam (Scientific Realism).
+- Roy Bhaskar (Critical Realism in social sciences).
+- Wilfrid Sellars (Scientific Realism / Philosophical Naturalism).
+- Bertrand Russell & G.E. Moore (Early 20th-century Analytic Realism).
+- Hans Morgenthau (Modern Political Realism in International Relations).
+- Gustave Courbet, Honore de Balzac, Leo Tolstoy (Artistic and Literary Realism).
+
+5.3:
+Who criticized the target Realism
+- George Berkeley (Subjective Idealism / Dogmatic Idealism).
+- Immanuel Kant (Transcendental Idealism).
+- Friedrich Nietzsche (Perspectivism / Anti-realism).
+- Thomas Kuhn (Paradigm shifts and anti-realism in history of science).
+- Jacques Derrida & Michel Foucault (Postmodernism and Linguistic Constructivism).
+
+
+6. Where is the birth place, country and city of Realism
+Birthplace: Ancient Greece
+Cities / Regions: Athens, Ionia, and Stagira (Ancient Greece) / Elea (Magna Graecia).
