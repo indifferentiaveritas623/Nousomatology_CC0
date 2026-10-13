@@ -1,0 +1,105 @@
+Target: Moral Anti-Realism
+
+1.
+
+1.1 Description of Moral Anti-Realism
+Moral Anti-Realism is the meta-ethical position holding that there are no objective moral facts, objective moral properties, or mind-independent moral truths. According to moral anti-realism, moral claims do not report mind-independent features of the world; instead, moral statements are either subjective expressions of emotion or desire, social/cultural constructs, false assertions projecting non-existent properties onto reality, or non-cognitive expressions of attitudes.
+
+1.2 Is this an element of Ontology or Epistemology or else if else, what ?
+- Meta-ethics: Primarily (concerning the ultimate nature, status, origin, and foundations of moral values and moral language).
+- Ontology: Primordial / Primary (concerning moral ontology — questioning whether moral properties like "goodness", "duty", or "rightness" objectively exist in reality).
+- Epistemology: Secondary (concerning moral epistemology — questioning how moral knowledge could be justified if mind-independent moral facts do not exist, or asserting moral skepticism).
+- Philosophy of Language / Semantics: Tertiary (concerning whether moral judgments express truth-evaluable beliefs — cognitivism vs. non-cognitivism).
+
+1.3 :
+-variations / association of Moral Anti-Realism
+
+1. Moral Expressivism (Emotivism / Prescriptivism): Non-cognitivist view holding that moral judgments do not state facts or express beliefs, but express emotional attitudes, feelings, or imperatives (e.g., A.J. Ayer's Emotivism, C.L. Stevenson, R.M. Hare's Universal Prescriptivism, Allan Gibbard's Norm-Expressivism).
+2. Moral Error Theory: Cognitivist view developed by J.L. Mackie holding that moral statements make claims about objective facts, but because objective moral properties do not exist in the universe, all positive moral assertions are systematically false.
+3. Moral Subjectivism (Individual / Ethical Subjectivism): Cognitivist view holding that moral statements are true or false relative to the subjective mental states, feelings, approvals, or preferences of individual speakers or cognitive agents.
+4. Moral Relativism (Cultural Relativism): The position that moral truths exist only relative to specific social conventions, cultural norms, historical contexts, or framework standards, lacking universal or objective validity.
+5. Moral Non-Cognitivism: The semantic thesis that moral statements are neither true nor false because they do not express proposition-like beliefs about reality, but rather desires, emotions, or commands.
+6. Moral Skepticism: The epistemological stance that no one can possess moral knowledge, or that moral beliefs cannot be justified because objective moral facts do not exist or are inaccessible.
+7. Moral Nihilism: The extreme ontological stance that nothing is genuinely moral or immoral, and that ethical values, obligations, and moral duties are completely non-existent fabrications.
+8. Anti-Realist Constructivism: The view (e.g., Sharon Street) that moral principles are constructed by practical rational agents or through evolutionary and adaptive pressures rather than discovered as mind-independent facts.
+9. Quasi-Realism: Simon Blackburn's expressivist framework explaining how anti-realists can legitimately use realist moral language (e.g., "truth", "fact", "knowledge") without committing to realist metaphysics.
+
+-In contrast to
+
+1. Moral Realism (Ethical Realism): The meta-ethical stance that objective moral facts and properties exist independently of human beliefs, perceptions, desires, or conventions.
+2. Moral Naturalism: A form of moral realism claiming that objective moral facts exist and are continuous with or reducible to natural, empirical facts (e.g., human flourishing, well-being, pleasure).
+3. Moral Non-Naturalism: A form of moral realism (e.g., G.E. Moore) holding that moral facts are sui generis, non-physical, objective properties that cannot be reduced to natural or scientific properties.
+4. Ethical Intuitionism: The epistemological view associated with moral realism asserting that fundamental moral truths are self-evident and known directly through rational intuition.
+5. Moral Absolutism: The position that certain actions are intrinsically right or wrong regardless of context, consequences, culture, or personal belief.
+6. Moral Objectivism: The view that moral principles have universal validity binding all rational beings, independent of subjective opinion or cultural approval.
+
+
+2. When Moral Anti-Realism emerged
+
+- Ancient Roots: 5th century BCE in Ancient Greece with Sophists like Protagoras ("Man is the measure of all things") and Thrasymachus ("Justice is the interest of the stronger"), as well as Pyrrhonian Skeptics (Pyrrho, Sextus Empiricus).
+- Modern Emergence: 18th century CE with David Hume (the Is-Ought distinction and sentimentalist ethics in A Treatise of Human Nature, 1739).
+- Formal Contemporary Meta-Ethical Emergence: Early to mid-20th century CE (1920s-1970s) through Logical Positivism (A.J. Ayer's Emotivism in Language, Truth and Logic, 1936), C.L. Stevenson, R.M. Hare, and J.L. Mackie (Ethics: Inventing Right and Wrong, 1977).
+
+
+3. The continuum of a prior and a posterior of Moral Anti-Realism
+
+3.1:
+a prior :
+1. Divine Command Theory & Theological Objectivism: Ancient and medieval frameworks grounding moral truth in God's objective decrees. Dissatisfaction with religious foundations and Euthyphro's dilemma pushed thinkers toward human-centered accounts of ethics.
+2. Platonic Realism & Metaphysical Objectivism: Classical assertions of objective, transcendent Forms of the Good. Enlightenment empiricists and 20th-century positivists rejected these unobservable metaphysical entities as non-empirical dogma.
+3. G.E. Moore's Open Question Argument & Non-Naturalism (1903): Moore argued that moral properties cannot be reduced to natural facts (the Naturalistic Fallacy), leaving moral realism relying on mysterious "non-natural" intuitions, which directly invited non-cognitivist and error-theoretic rejections.
+
+3.2:
+a posterior :
+1. Moral Expressivism & Quasi-Realism: Simon Blackburn developed Quasi-Realism to explain how anti-realists can legitimately talk about moral "truth", "knowledge", and "objectivity" without adopting realist metaphysics.
+2. Evolutionary Debunking Arguments: Contemporary philosophers (e.g., Sharon Street, Richard Joyce) use evolutionary biology to argue that human moral instincts are shaped by natural selection for survival, not for tracking objective moral facts.
+3. Meta-ethical Constructivism: Sharon Street and others developed anti-realist constructivism, positing that moral truths are generated by the process of practical reasoning itself rather than mind-independent reality.
+4. Postmodern & Critical Ethics: Deconstructionism, feminist ethics, and critical theory rejecting universal moral grand narratives in favor of contextual, power-aware discourse.
+
+3.3
+The continuum of the flow
+5th c. BCE: Sophism & Pyrrhonian Skepticism -> 18th c. CE: Humean Sentimentalism & Is-Ought Distinction -> 1930s-1950s: Logical Positivism & Emotivism (Ayer, Stevenson) -> 1950s-1960s: Universal Prescriptivism (Hare) -> 1977: Error Theory & Argument from Queerness (Mackie) -> 1980s-1990s: Quasi-Realism & Norm-Expressivism (Blackburn, Gibbard) -> 2000s-Present: Evolutionary Debunking & Anti-Realist Constructivism (Street, Joyce)
+
+
+4. The criticism
+
+4.1 the criticism against the target Moral Anti-Realism and the resultant genesis afterhand
+Criticism: The "Moral Nihilism / Arbitrariness" Objection: Opponents argue that if moral facts do not exist, then horrific acts (e.g., genocide, torture) are not objectively wrong, rendering morality arbitrary and undermining moral motivation, moral progress, and justice. Furthermore, anti-realism struggles with moral disagreement, moral reasoning, and the embedded realist grammar of ordinary moral language (The Frege-Geach Problem for non-cognitivism).
+Resultant Genesis: Cornell Realism (Richard Boyd, Nicholas Sturgeon, David Brink), Moral Realist Naturalism, Moral Intuitionism revival (Michael Huemer), and Moral Realist Constructivism (T.M. Scanlon's Contractualism).
+
+4.2 The one the target Moral Anti-Realism criticizes and the resultant genesis afterhand
+Moral Anti-Realism Criticizes: Moral Realism, Objective Moral Facts, Metaphysical Non-Naturalism, and Intuitionism (criticizing them via the "Argument from Queerness" — metaphysical and epistemological strangeness — and the "Argument from Relativity" — widespread cross-cultural moral disagreement).
+Resultant Genesis: Sophisticated Anti-Realist Meta-ethics (J.L. Mackie's Error Theory, Simon Blackburn's Quasi-Realism, Allan Gibbard's Norm-Expressivism, Sharon Street's Evolutionary Constructivism).
+
+
+5. Who part
+
+5.1:
+Who invented, Who is/are the pioneer(s) of the particular Moral Anti-Realism
+- Protagoras of Abdera (c. 490-c. 420 BCE) - Early pioneer of relativistic moral anti-realism ("Man is the measure of all things").
+- David Hume (1711-1776) - Modern pioneer whose "Is-Ought distinction" and sentimentalist meta-ethics laid the groundwork for moral anti-realism.
+- A.J. Ayer (1910-1989) - Pioneer of Emotivism (Non-cognitivism) in modern analytic philosophy (Language, Truth and Logic, 1936).
+- J.L. Mackie (1917-1981) - Pioneer of Moral Error Theory (Ethics: Inventing Right and Wrong, 1977).
+
+5.2:
+Who are the proponents
+- Charles Leslie Stevenson (1908-1979) - Developed emotive theory of ethics.
+- R.M. Hare (1919-2002) - Developed Universal Prescriptivism.
+- Simon Blackburn (1944-present) - Creator of Quasi-Realism.
+- Allan Gibbard (1942-present) - Creator of Norm-Expressivism.
+- Sharon Street - Leading defender of anti-realist constructivism and evolutionary debunking arguments against moral realism.
+- Richard Joyce - Prominent defender of moral error theory and evolutionary anti-realism.
+- Gilbert Harman (1938-2019) - Defender of moral relativism and moral anti-realism based on best explanatory hypotheses in science.
+
+5.3:
+Who criticized the target Moral Anti-Realism
+- G.E. Moore (1873-1958) - Defended Moral Non-Naturalism and moral realism against subjectivist/naturalist reductions.
+- Derek Parfit (1942-2017) - Resolute defender of non-realist cognitivism/moral realism (On What Matters), strongly criticizing error theory and expressivism.
+- David Brink & Nicholas Sturgeon - Cornell Realists defending naturalistic moral realism against Harman and Mackie.
+- Michael Huemer - Defended Phenomenal Conservatism and Intuitionist Moral Realism.
+- Christine Korsgaard & T.M. Scanlon - Defended Kantian/Contractualist versions of objective moral realism and normativity.
+
+
+6. Where is the birth place, country and city of Moral Anti-Realism
+Birthplace: Ancient Greece / United Kingdom / United States
+Cities / Regions: Abdera & Athens (Ancient Greece) / Edinburgh, Scotland (David Hume) / Oxford & London, England (A.J. Ayer, J.L. Mackie, R.M. Hare) / Cambridge, Massachusetts, United States (C.L. Stevenson).
