@@ -1,0 +1,103 @@
+Target: Ethical Egoism
+
+1.
+
+1.1 Description of Ethical Egoism
+Ethical Egoism is the normative ethical position that moral agents ought to act in their own self-interest. It asserts that an action is morally right if and only if it maximizes the individual agent's long-term self-interest, well-being, or advantage. Unlike Descriptive or Psychological Egoism (which claims that humans actually always pursue their own self-interest), Ethical Egoism is a prescriptive/normative theory stating how humans should or ought to behave. Under Ethical Egoism, an individual has no direct moral duty to promote the interests of others; altruistic actions are morally praise-worthy or justified only insofar as they ultimately serve the self-interest of the agent.
+
+1.2 Is this an element of Ontology or Epistemology or else if else, what ?
+- Normative Ethics: Primary (it is fundamentally a normative ethical theory specifying the criteria for right and wrong moral conduct).
+- Axiology / Value Theory: Secondary (concerning moral value—holding that the ultimate good or primary value for any individual is their own self-interest, happiness, or flourishing).
+- Meta-ethics / Moral Psychology: Tertiary (implying a rationalist or desire-satisfaction account of moral motivation and moral obligation).
+
+1.3 :
+-variations / association of Ethical Egoism
+
+1. Universal Ethical Egoism: The view that everyone ought to act in their own self-interest. This is the most common form discussed in philosophical literature.
+2. Individual Ethical Egoism: The view that everyone ought to act in my self-interest (i.e., the specific speaker's interest).
+3. Personal Ethical Egoism: The view that I ought to act in my self-interest, but making no claim about what others ought to do.
+4. Rational Egoism: The view that it is always rational to promote one's self-interest, and irrational not to do so. (Closely associated with Ayn Rand's Objectivism).
+5. Enlightened Ethical Egoism: The view that short-term sacrifices or cooperative, law-abiding behaviors are justified because they yield greater long-term self-benefit and stability.
+6. Hedonistic Ethical Egoism: Defines self-interest strictly in terms of maximizing pleasure and minimizing pain for oneself (e.g., Epicureanism).
+7. Perfectionist Ethical Egoism: Defines self-interest in terms of self-development, flourishing, excellence, and rational self-actualization (e.g., Ayn Rand, Nietzschean egoism).
+
+-In contrast to
+
+1. Psychological Egoism: The descriptive claim that humans are psychologically incapable of acting out of anything other than self-interest.
+2. Ethical Altruism: The normative view that individuals have a moral obligation to act for the benefit and welfare of others, even at the expense of their own self-interest.
+3. Utilitarianism / Universal Consequentialism: The normative view that actions are right if they maximize overall happiness/utility for all sentient beings impartially.
+4. Deontology (Kantian Ethics): The view that moral duties are categorical, universalizable, and grounded in respect for rational beings rather than consequences or self-interest.
+5. Virtue Ethics (impartial forms): The view that moral character and virtues are developed for communal eudaimonia rather than strictly agent-exclusive gain.
+
+
+2. When Ethical Egoism emerged
+
+- Ancient Roots: 5th–4th century BCE in Ancient Greece with Sophists such as Thrasymachus (who claimed justice is "the advantage of the stronger") and Callicles (who argued for natural egoism and the rule of the strong), as well as Yang Zhu (Yangism) in 4th century BCE China, who advocated "each for himself" and preserving one's life above state interests.
+- Early Modern Precursors: 17th century CE with Thomas Hobbes (Leviathan, 1651), who grounded political authority and ethical obligation in individual self-preservation and psychological self-interest.
+- 19th Century Radicalization: 1844 CE with Max Stirner (The Ego and Its Own / Der Einzige und sein Eigentum), formulating conscious, anarchistic individualist egoism.
+- 20th Century Formalization: 1950s–1960s CE with Ayn Rand, who systematically defended Ethical Rational Egoism in Atlas Shrugged (1957) and The Virtue of Selfishness (1964).
+
+
+3. The continuum of a prior and a posterior of Ethical Egoism
+
+3.1:
+a prior :
+1. Sophistic Relativism & Natural Law Critique: Sophists like Thrasymachus and Callicles questioned state laws (nomos) as unnatural constraints, arguing that natural law (physis) favors individual self-assertion.
+2. Hobbesian State of Nature & Self-Preservation: Hobbes's depiction of the "war of all against all" established self-interest and self-preservation as the fundamental human drive.
+3. Classical Political Economy (Adam Smith): The concept that individual self-interest in the market unintentionally drives societal economic flourishing ("invisible hand").
+
+3.2:
+a posterior :
+1. Libertarianism & Objectivism: Ayn Rand's philosophy directly birthed Objectivism and influenced modern libertarian political philosophy, emphasizing individual rights, laissez-faire capitalism, and self-reliance.
+2. Rational Choice Theory & Game Theory: Formal economic and psychological models analyzing decision-making based on self-interest maximization (e.g., Prisoner's Dilemma, Axelrod's Evolution of Cooperation).
+3. Contractarianism & Evolutionary Egoism: Modern philosophical defenses of social cooperation (e.g., David Gauthier's Morals by Agreement) demonstrating how rational egoists agree to moral constraints for mutual advantage.
+
+3.3
+The continuum of the flow
+5th–4th c. BCE: Sophism (Thrasymachus, Callicles) & Yangism -> 17th c. CE: Hobbesian Self-Preservation & Social Contract Theory -> 18th c. CE: Adam Smith's Market Self-Interest -> 1844: Max Stirner's Radical Individualist Egoism -> 19th c.: Nietzschean Critique of Altruism & Will to Power -> 1957–1964: Ayn Rand's Rational Egoism (Objectivism) -> Late 20th c.–Present: Rational Choice Theory, Game Theory, & Contractarian Ethics (Gauthier, Narveson)
+
+
+4. The criticism
+
+4.1 the criticism against the target Ethical Egoism and the resultant genesis afterhand
+Criticism: Inability to resolve interpersonal conflicts of interest (e.g., Baier's Argument); arbitrary discrimination/violating the principle of impartiality (e.g., James Rachels); inability to sanction egregious harms if advantageous to the agent; logical inconsistency or incoherence when universalized; the "Paradox of Egoism" (that true friendship and love require non-egoistic commitment); and the Prisoner's Dilemma showing that unconstrained egoism leads to sub-optimal outcomes for all.
+Resultant Genesis: Social Contractarian Ethics (Gauthier, Hobbes), Rule Egoism / Enlightened Egoism, Reciprocal Altruism theory in evolutionary biology, and Kantian/Utilitarian reformulations of impartiality.
+
+4.2 The one the target Ethical Egoism criticizes and the resultant genesis afterhand
+Ethical Egoism Criticizes: Ethical Altruism (criticized by Ayn Rand as a destructive "morality of self-sacrifice" that diminishes human value), Traditional Religious Ethics / Christian Morality (criticized by Nietzsche and Stirner as "slave morality" or alienating "spooks"), and Collectivism/Utilitarianism (criticized for sacrificing the individual for the group).
+Resultant Genesis: Objectivism, Individualist Anarchism, Radical Individualism, Neoliberal Economics, and Libertarian Rights Theory.
+
+
+5. Who part
+
+5.1:
+5.1 Who invented, Who is/are the pioneer(s) of the particular Ethical Egoism
+- Thrasymachus (c. 459–c. 400 BCE) - Ancient Greek Sophist pioneer arguing justice is the interest of the stronger.
+- Callicles (c. 5th century BCE) - Ancient Greek Sophist advocating natural egoism and heroic self-interest.
+- Yang Zhu (c. 440–c. 360 BCE) - Ancient Chinese philosopher, founder of Yangism ("each for himself").
+- Thomas Hobbes (1588–1679) - Early modern English philosopher who grounded moral/political obligation in self-preservation.
+- Max Stirner (1806–1856) - German philosopher, author of The Ego and Its Own, pioneer of conscious egoism.
+
+5.2:
+Who are the proponents
+- Ayn Rand (1905–1982) - Founder of Objectivism, advocated rational ethical egoism in The Virtue of Selfishness.
+- Nathaniel Branden (1930–2014) - Objectivist philosopher and psychologist who defended egoistic self-esteem.
+- Jan Narveson (1936–present) - Libertarian philosopher defending egoistic/contractarian ethics.
+- David Gauthier (1932–2023) - Developed contractarianism where moral rules are derived from rational egoistic bargaining.
+- John Hospers (1918–2011) - Libertarian philosopher who defended ethical egoism in normative frameworks.
+- Edward Kalin (20th century) - Contemporary defender of universal ethical egoism.
+
+5.3:
+Who criticized the target Ethical Egoism
+- Plato (c. 428–348 BCE) - Argued against Thrasymachus in Republic, claiming justice benefits the soul.
+- Immanuel Kant (1724–1804) - Rejected self-interest as a ground for moral duty (Duty vs. Inclination).
+- G.E. Moore (1873–1958) - Argued universal ethical egoism is self-contradictory.
+- Kurt Baier (1917–2010) - Argued ethical egoism fails to provide a workable framework for resolving moral conflicts.
+- James Rachels (1941–2003) - Argued ethical egoism is an arbitrary doctrine akin to racism because it divides people into self vs. others without relevant differences.
+- Derek Parfit (1942–2017) - Argued against the Rational Egoism hypothesis in Reasons and Persons.
+- Thomas Nagel (1937–present) - Argued in The Possibility of Altruism that altruism is a direct rational requirement.
+
+
+6. Where is the birth place, country and city of Ethical Egoism
+Birthplace: Ancient Greece / China / Germany / England / Russia–United States
+Cities / Regions: Ancient Athens (Greece) / Luoyang & State of Wei (China) / London & Malmesbury (England) / Berlin & Bayreuth (Germany) / St. Petersburg (Russia) & New York City, NY (United States).
